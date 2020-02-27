@@ -1,7 +1,7 @@
 <template>
   <div class="content-home-view">
     <h2>Welcome to the To-Do App!</h2>
-    <h3>Login to see your To-Dos</h3>
+    <h3>Visit the settings tab to see nested routing in action</h3>
   </div>
 </template>
 <style scoped>
